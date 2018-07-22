@@ -1,0 +1,23 @@
+{
+  "name": "gpm-playlist-archive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnybib/gpm-playlist-archive.git"
+  },
+  "author": "James Graham-Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnybib/gpm-playlist-archive/issues"
+  },
+  "homepage": "https://github.com/johnnybib/gpm-playlist-archive#readme",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  }
+}
